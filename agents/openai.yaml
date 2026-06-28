@@ -1,0 +1,4 @@
+interface:
+  display_name: "Topic Angle"
+  short_description: "评估科技素材价值，提炼中文圈传播角度、标题与最佳发布形式"
+  default_prompt: "使用 $topic-angle 分析这条素材是否值得发 X，并给出最强中文圈传播角度。"
